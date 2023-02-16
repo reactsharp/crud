@@ -17,7 +17,7 @@ function App() {
         <Route path="/cart" element={<Cart />}></Route>
       </Routes>
     </Router>
-  );
+  ); 
 }
 
 export default App;
